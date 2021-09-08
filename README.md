@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @slapthat4ss
+- 👋 Hi, I’m @HamadAltamimi
 - 👀 I’m interested in Computers, codes, builds and gmaes
 - 🌱 I’m currently learning python, dta science and games
 - 💞️ I’m looking to collaborate on ...
