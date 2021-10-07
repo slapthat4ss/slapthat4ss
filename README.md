@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HamadAltamimi
-- 👀 I’m interested in Computers, codes, builds and gmaes
-- 🌱 I’m currently learning python, dta science and games
+- 👋 Hi, I’m @HamadAltamimi.
+- 👀 I’m interested in Computers, codes, builds and games.
+- 🌱 I’m currently learning python, SQL, data science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
